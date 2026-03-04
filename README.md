@@ -10,6 +10,11 @@ En el curso de Análisis de Datos (segunda parte) impartido en el Cinvestav Tama
 
 ## `Implementaciones en Python`
 *   [`1. Clasificación Bayesiana`](https://github.com/wgomezf/analisis_datos/tree/main/01_Clasificación_Bayesiana)
+    *   [`Teorema de Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_de_Bayes.ipynb)
+    *   [`Teorema del límite central`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_Limite_Central.ipynb)
+    *   [`Clasificador de mínima distancia Euclidiana`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_1.ipynb)
+    *   [`Clasificador de mínima distancia Mahalanobis`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_2.ipynb)
+    *   [`Clasificador general Bayesiano`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_3.ipynb)
 *   [`2. Clasificación lineal`](https://github.com/wgomezf/analisis_datos/tree/main/02_Clasificación_lineal)
 *   [`3. Redes neuronales artificiales`](https://github.com/wgomezf/analisis_datos/tree/main/03_Redes_neuronales_artificiales)
 
