@@ -22,6 +22,7 @@ Nota: se agregará material nuevo conforme avance el curso.
     *   [`Clasificador de mínima distancia Mahalanobis`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_2.ipynb)
     *   [`Clasificador Bayesiano general`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_3.ipynb)
     *   [`Clasificador naive Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_4.ipynb)
+    *   [`Estimación de densidad de kernel`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/kde.ipynb)
 *   [`2. Clasificación lineal`](https://github.com/wgomezf/analisis_datos/tree/main/02_Clasificación_lineal)
 *   [`3. Redes neuronales artificiales`](https://github.com/wgomezf/analisis_datos/tree/main/03_Redes_neuronales_artificiales)
 
