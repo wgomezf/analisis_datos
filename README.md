@@ -1,7 +1,7 @@
 # `Análisis de Datos`
 
 ## `Sobre el curso`
-En el curso de Análisis de Datos (segunda parte) impartido en el Cinvestav Tamaulipas, se estudiarán técnicas relevantes de aprendizaje supervisado para clasificar automáticamente objetos físicos de múltiples dimensiones en categorías o clases conocidas. Estos métodos son útiles en muchas áreas de aplicación, como la minería de datos, el análisis y reconocimiento de documentos, la lingüística computacional, las ciencias forenses, la biometría, la bioinformática y el diagnóstico de enfermedades, entre otras. 
+En el curso de Análisis de Datos (parte II), impartido en el programa de maestría del Cinvestav Unidad Tamaulipas, se estudiarán técnicas relevantes de aprendizaje supervisado para clasificar automáticamente objetos físicos de múltiples dimensiones en categorías o clases conocidas. Estos métodos son útiles en muchas áreas de aplicación, como la minería de datos, el análisis y reconocimiento de documentos, la lingüística computacional, las ciencias forenses, la biometría, la bioinformática y el diagnóstico de enfermedades, entre otras. 
 
 ## `Tópicos del curso`
 *   [1. Introducción a la clasificación de datos](https://drive.google.com/file/d/1SdGPGciN2SUGe764bc_GBZAuaJTUPp9A/view?usp=sharing)
