@@ -9,6 +9,7 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [1. Introducción a la clasificación de datos](https://drive.google.com/file/d/1SdGPGciN2SUGe764bc_GBZAuaJTUPp9A/view?usp=sharing)
 *   [2. Teoría de decisión Bayesiana](https://drive.google.com/file/d/15JnH-0c3rGfMvYOHs0YrFhj9miDpZk97/view?usp=sharing)
 *   [3. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/10GgKkTL2e6QsPL2R-QcGvdmE-WpRHdE7/view?usp=sharing)
+*   [4. Clasificadores Bayesianos no paramétricos](https://drive.google.com/file/d/1_9Kg8n8g0p6m2qrQDVjV24sAtnAqEtM3/view?usp=sharing)
 
 ## `Notas de clase`
 *   [1. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/1BMpzEfGTX7YicIpVE069d3_zn1NOlXC3/view?usp=sharing)
@@ -23,6 +24,7 @@ Nota: se agregará material nuevo conforme avance el curso.
     *   [`Clasificador Bayesiano general`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_3.ipynb)
     *   [`Clasificador naive Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_4.ipynb)
     *   [`Estimación de densidad de kernel`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/kde.ipynb)
+    *   [`Clasificador de los k-vecinos más cercanos`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/knn.ipynb)
 *   [`2. Clasificación lineal`](https://github.com/wgomezf/analisis_datos/tree/main/02_Clasificación_lineal)
 *   [`3. Redes neuronales artificiales`](https://github.com/wgomezf/analisis_datos/tree/main/03_Redes_neuronales_artificiales)
 
