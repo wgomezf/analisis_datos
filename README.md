@@ -8,7 +8,7 @@ En el curso de Análisis de Datos (segunda parte) impartido en el Cinvestav Tama
 *   [2. Teoría de decisión Bayesiana](https://drive.google.com/file/d/15JnH-0c3rGfMvYOHs0YrFhj9miDpZk97/view?usp=sharing)
 *   [3. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/10GgKkTL2e6QsPL2R-QcGvdmE-WpRHdE7/view?usp=sharing)
 
-## `Notas de clase complementarias`
+## `Notas de clase`
 *   [1. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/1BMpzEfGTX7YicIpVE069d3_zn1NOlXC3/view?usp=sharing)
 *   [2. Estimación por máxima verosimilitud](https://drive.google.com/file/d/1GOy7VStVQSkgP93ylEiEI3Q_RqI-a8vd/view?usp=sharing)
 
