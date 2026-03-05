@@ -14,6 +14,7 @@ Nota: se agregará material nuevo conforme avance el curso.
 ## `Notas de clase`
 *   [1. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/1BMpzEfGTX7YicIpVE069d3_zn1NOlXC3/view?usp=sharing)
 *   [2. Estimación por máxima verosimilitud](https://drive.google.com/file/d/1GOy7VStVQSkgP93ylEiEI3Q_RqI-a8vd/view?usp=sharing)
+*   [3. MLE de la distribución binomial](https://drive.google.com/file/d/1O_2RNUyGcH089gucd55LYyyfp0C7hxvl/view?usp=sharing)
 
 ## `Implementaciones en Python`
 *   [`1. Clasificación Bayesiana`](https://github.com/wgomezf/analisis_datos/tree/main/01_Clasificación_Bayesiana)
