@@ -32,6 +32,7 @@ Nota: se agregará material nuevo conforme avance el curso.
     *   [`Algoritmo perceptrón de incremento fijo`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/incremento_fijo.ipynb)
     *   [`Algoritmo perceptrón con criterio de relajación`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/criterio_relajacion.ipynb)
     *   [`Algoritmo perceptrón pocket`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/perceptron_pocket.ipynb)
+    *   [`Algoritmo perceptrón multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/perceptron_multiclase.ipynb)
 *   [`3. Redes neuronales artificiales`](https://github.com/wgomezf/analisis_datos/tree/main/03_Redes_neuronales_artificiales)
 
 ## `Bibliografía recomendada`
