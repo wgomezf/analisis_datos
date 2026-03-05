@@ -30,6 +30,7 @@ Nota: se agregará material nuevo conforme avance el curso.
     *   [`Clasificador de los k-vecinos más cercanos`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/knn.ipynb)
 *   [`2. Clasificación lineal`](https://github.com/wgomezf/analisis_datos/tree/main/02_Clasificación_lineal)
     *   [`Algoritmo perceptrón de incremento fijo`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/incremento_fijo.ipynb)
+    *   [`Algoritmo perceptrón con criterio de relajación`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/criterio_relajacion.ipynb)
 *   [`3. Redes neuronales artificiales`](https://github.com/wgomezf/analisis_datos/tree/main/03_Redes_neuronales_artificiales)
 
 ## `Bibliografía recomendada`
