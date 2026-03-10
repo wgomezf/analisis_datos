@@ -11,12 +11,14 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [3. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/10GgKkTL2e6QsPL2R-QcGvdmE-WpRHdE7/view?usp=sharing)
 *   [4. Clasificadores Bayesianos no paramétricos](https://drive.google.com/file/d/1_9Kg8n8g0p6m2qrQDVjV24sAtnAqEtM3/view?usp=sharing)
 *   [5. Algoritmo perceptrón](https://drive.google.com/file/d/1mxWeTNhCDa5if9I-1mEK2AMhD8yD_eGs/view?usp=sharing)
+*   [6. Regresión logística](https://drive.google.com/file/d/1jSOztbzxJiby4SfbFhlVdjq9L_fT5UwX/view?usp=sharing)
 
 ## `Notas de clase`
 *   [1. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/1BMpzEfGTX7YicIpVE069d3_zn1NOlXC3/view?usp=sharing)
 *   [2. Estimación por máxima verosimilitud](https://drive.google.com/file/d/1GOy7VStVQSkgP93ylEiEI3Q_RqI-a8vd/view?usp=sharing)
 *   [3. MLE de la distribución binomial](https://drive.google.com/file/d/1O_2RNUyGcH089gucd55LYyyfp0C7hxvl/view?usp=sharing)
 *   [4. Algoritmo perceptrón](https://drive.google.com/file/d/1xnqSq8o-xt90X-AwRXeCYdgEniTY_lmu/view?usp=sharing)
+*   [5. Regresión logística](https://drive.google.com/file/d/1YibJVwOo3cGHHCKgLsDXwP9x2cq915Qq/view?usp=sharing)
 
 ## `Implementaciones en Python`
 *   [`1. Clasificación Bayesiana`](https://github.com/wgomezf/analisis_datos/tree/main/01_Clasificación_Bayesiana)
@@ -33,6 +35,7 @@ Nota: se agregará material nuevo conforme avance el curso.
     *   [`Algoritmo perceptrón con criterio de relajación`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/criterio_relajacion.ipynb)
     *   [`Algoritmo perceptrón pocket`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/perceptron_pocket.ipynb)
     *   [`Algoritmo perceptrón multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/perceptron_multiclase.ipynb)
+    *   [`Regresión logística`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/regresion_logistica.ipynb)
 *   [`3. Redes neuronales artificiales`](https://github.com/wgomezf/analisis_datos/tree/main/03_Redes_neuronales_artificiales)
 
 ## `Bibliografía recomendada`
