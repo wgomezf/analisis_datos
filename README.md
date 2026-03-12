@@ -29,6 +29,7 @@ Nota: se agregará material nuevo conforme avance el curso.
     *   [`Clasificador Bayesiano general`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_3.ipynb)
     *   [`Clasificador naive Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_4.ipynb)
     *   [`Estimación de densidad de kernel`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/kde.ipynb)
+    *   [`Clasificador con ventanas de Parzen`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/parzen.ipynb)
     *   [`Clasificador de los k-vecinos más cercanos`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/knn.ipynb)
 *   [`2. Clasificación lineal`](https://github.com/wgomezf/analisis_datos/tree/main/02_Clasificación_lineal)
     *   [`Algoritmo perceptrón de incremento fijo`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/incremento_fijo.ipynb)
