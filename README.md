@@ -19,7 +19,7 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [2. Estimación por máxima verosimilitud](https://drive.google.com/file/d/1GOy7VStVQSkgP93ylEiEI3Q_RqI-a8vd/view?usp=sharing)
 *   [3. MLE de la distribución binomial](https://drive.google.com/file/d/1O_2RNUyGcH089gucd55LYyyfp0C7hxvl/view?usp=sharing)
 *   [4. Algoritmo perceptrón](https://drive.google.com/file/d/1xnqSq8o-xt90X-AwRXeCYdgEniTY_lmu/view?usp=sharing)
-*   [5. Regresión logística](https://drive.google.com/file/d/1YibJVwOo3cGHHCKgLsDXwP9x2cq915Qq/view?usp=sharing)
+*   [5. Regresión logística](https://drive.google.com/file/d/1hqrtyFQBD3Yp1qKlbBxgm4iEEgnb3k26/view?usp=sharing)
 
 ## `Implementaciones en Python`
 *   [`1. Clasificación Bayesiana`](https://github.com/wgomezf/analisis_datos/tree/main/01_Clasificación_Bayesiana)
