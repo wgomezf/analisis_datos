@@ -12,7 +12,8 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [4. Clasificadores Bayesianos no paramétricos](https://drive.google.com/file/d/1_9Kg8n8g0p6m2qrQDVjV24sAtnAqEtM3/view?usp=sharing)
 *   [5. Algoritmo perceptrón](https://drive.google.com/file/d/1mxWeTNhCDa5if9I-1mEK2AMhD8yD_eGs/view?usp=sharing)
 *   [6. Regresión logística](https://drive.google.com/file/d/1jSOztbzxJiby4SfbFhlVdjq9L_fT5UwX/view?usp=sharing)
-
+*   [7. Métodos de mínimos cuadrados](https://drive.google.com/file/d/15sAGF50yMzU-edEN7CYCgb4pf9FXWwM3/view?usp=sharing)
+  
 ## `Notas de clase`
 *   [1. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/1BMpzEfGTX7YicIpVE069d3_zn1NOlXC3/view?usp=sharing)
 *   [2. Estimación por máxima verosimilitud](https://drive.google.com/file/d/1GOy7VStVQSkgP93ylEiEI3Q_RqI-a8vd/view?usp=sharing)
@@ -37,6 +38,8 @@ Nota: se agregará material nuevo conforme avance el curso.
     *   [`Algoritmo perceptrón pocket`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/perceptron_pocket.ipynb)
     *   [`Algoritmo perceptrón multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/perceptron_multiclase.ipynb)
     *   [`Regresión logística`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/regresion_logistica.ipynb)
+    *   [`Mínimos cuadrados caso binario`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/mincuadbin.ipynb)
+    *   [`Mínimos cuadrados caso multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/mincuadmul.ipynb)
 *   [`3. Redes neuronales artificiales`](https://github.com/wgomezf/analisis_datos/tree/main/03_Redes_neuronales_artificiales)
 
 ## `Bibliografía recomendada`
