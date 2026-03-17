@@ -40,6 +40,8 @@ Nota: se agregará material nuevo conforme avance el curso.
     *   [`Regresión logística`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/regresion_logistica.ipynb)
     *   [`Mínimos cuadrados caso binario`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/mincuadbin.ipynb)
     *   [`Mínimos cuadrados caso multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/mincuadmul.ipynb)
+    *   [`SVM de margen suave`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/svmsoft.ipynb)
+    *   [`Biblioteca LIBSVM`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/svmlib.ipynb)
 *   [`3. Redes neuronales artificiales`](https://github.com/wgomezf/analisis_datos/tree/main/03_Redes_neuronales_artificiales)
 
 ## `Bibliografía recomendada`
