@@ -14,6 +14,7 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [6. Regresión logística](https://drive.google.com/file/d/1jSOztbzxJiby4SfbFhlVdjq9L_fT5UwX/view?usp=sharing)
 *   [7. Métodos de mínimos cuadrados](https://drive.google.com/file/d/15sAGF50yMzU-edEN7CYCgb4pf9FXWwM3/view?usp=sharing)
 *   [8. Máquina de vectores de soporte](https://drive.google.com/file/d/11eonrb-sh1PoerXfvZwAcZlkCrjeeah5/view?usp=sharing)
+*   [9. Análisis lineal discriminante](https://drive.google.com/file/d/15XE1583YZx2NRBk8EIQaSwrV4GKkRdgy/view?usp=sharing)
   
 ## `Notas de clase`
 *   [1. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/1BMpzEfGTX7YicIpVE069d3_zn1NOlXC3/view?usp=sharing)
@@ -22,6 +23,7 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [4. Algoritmo perceptrón](https://drive.google.com/file/d/1xnqSq8o-xt90X-AwRXeCYdgEniTY_lmu/view?usp=sharing)
 *   [5. Regresión logística](https://drive.google.com/file/d/1hqrtyFQBD3Yp1qKlbBxgm4iEEgnb3k26/view?usp=sharing)
 *   [6. Máquina de vectores de soporte](https://drive.google.com/file/d/1rPsXyywnxtBisCWeE84sXbD1mRs35cex/view?usp=sharing)
+*   [7. Análisis lineal discriminante](https://drive.google.com/file/d/1IGmWIFU5KH6XC1QNjCdkPChvw5Hc55vb/view?usp=sharing)
 
 ## `Implementaciones en Python`
 *   [`1. Clasificación Bayesiana`](https://github.com/wgomezf/analisis_datos/tree/main/01_Clasificación_Bayesiana)
@@ -44,6 +46,9 @@ Nota: se agregará material nuevo conforme avance el curso.
     *   [`Mínimos cuadrados caso multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/mincuadmul.ipynb)
     *   [`SVM de margen suave`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/svmsoft.ipynb)
     *   [`Biblioteca LIBSVM`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/svmlib.ipynb)
+    *   [`LDA binario`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ldabin.ipynb)
+    *   [`LDA multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ldamul.ipynb)
+    *   [`LDA kernel`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ldakernel.ipynb)
 *   [`3. Redes neuronales artificiales`](https://github.com/wgomezf/analisis_datos/tree/main/03_Redes_neuronales_artificiales)
 
 ## `Bibliografía recomendada`
