@@ -15,7 +15,8 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [7. Métodos de mínimos cuadrados](https://drive.google.com/file/d/15sAGF50yMzU-edEN7CYCgb4pf9FXWwM3/view?usp=sharing)
 *   [8. Máquina de vectores de soporte](https://drive.google.com/file/d/11eonrb-sh1PoerXfvZwAcZlkCrjeeah5/view?usp=sharing)
 *   [9. Análisis lineal discriminante](https://drive.google.com/file/d/15XE1583YZx2NRBk8EIQaSwrV4GKkRdgy/view?usp=sharing)
-  
+*   [10. Esquemas de clasificación multiclase](https://drive.google.com/file/d/16Od00-ZgyGYeLTYOA7Q-qCIzx-4UP2wq/view?usp=sharing)
+
 ## `Notas de clase`
 *   [1. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/1BMpzEfGTX7YicIpVE069d3_zn1NOlXC3/view?usp=sharing)
 *   [2. Estimación por máxima verosimilitud](https://drive.google.com/file/d/1GOy7VStVQSkgP93ylEiEI3Q_RqI-a8vd/view?usp=sharing)
@@ -27,15 +28,18 @@ Nota: se agregará material nuevo conforme avance el curso.
 
 ## `Implementaciones en Python`
 *   [`1. Clasificación Bayesiana`](https://github.com/wgomezf/analisis_datos/tree/main/01_Clasificación_Bayesiana)
-    *   [`Teorema de Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_de_Bayes.ipynb)
-    *   [`Teorema del límite central`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_Limite_Central.ipynb)
-    *   [`Clasificador de mínima distancia Euclidiana`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_1.ipynb)
-    *   [`Clasificador de mínima distancia Mahalanobis`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_2.ipynb)
-    *   [`Clasificador Bayesiano general`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_3.ipynb)
-    *   [`Clasificador naive Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_4.ipynb)
-    *   [`Estimación de densidad de kernel`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/kde.ipynb)
-    *   [`Clasificador con ventanas de Parzen`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/parzen.ipynb)
-    *   [`Clasificador de los k-vecinos más cercanos`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/knn.ipynb)
+    *   Teoría de decisión Bayesiana:
+        *   [`Teorema de Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_de_Bayes.ipynb)
+        *   [`Teorema del límite central`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_Limite_Central.ipynb)
+    *   Clasificadores paramétricos:
+        *   [`Clasificador de mínima distancia Euclidiana`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_1.ipynb)
+        *   [`Clasificador de mínima distancia Mahalanobis`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_2.ipynb)
+        *   [`Clasificador Bayesiano general`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_3.ipynb)
+        *   [`Clasificador naive Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_4.ipynb)
+    *   Clasificadores no paramétricos:
+        *   [`Estimación de densidad de kernel`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/kde.ipynb)
+        *   [`Clasificador con ventanas de Parzen`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/parzen.ipynb)
+        *   [`Clasificador de los k-vecinos más cercanos`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/knn.ipynb)
 *   [`2. Clasificación lineal`](https://github.com/wgomezf/analisis_datos/tree/main/02_Clasificación_lineal)
     *   [`Algoritmo perceptrón de incremento fijo`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/incremento_fijo.ipynb)
     *   [`Algoritmo perceptrón con criterio de relajación`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/criterio_relajacion.ipynb)
