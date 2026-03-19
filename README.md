@@ -27,7 +27,7 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [7. Análisis lineal discriminante](https://drive.google.com/file/d/1IGmWIFU5KH6XC1QNjCdkPChvw5Hc55vb/view?usp=sharing)
 
 ## `Implementaciones en Python`
-*   1. Clasificación Bayesiana
+*   `1. Clasificación Bayesiana`
     *   Teoría de decisión Bayesiana
         *   [`Teorema de Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_de_Bayes.ipynb)
         *   [`Teorema del límite central`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_Limite_Central.ipynb)
@@ -40,7 +40,7 @@ Nota: se agregará material nuevo conforme avance el curso.
         *   [`Estimación de densidad de kernel`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/kde.ipynb)
         *   [`Clasificador con ventanas de Parzen`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/parzen.ipynb)
         *   [`Clasificador de los k-vecinos más cercanos`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/knn.ipynb)
-*   2. Clasificación lineal
+*   `2. Clasificación lineal`
     *   Algoritmo perceptrón
         *   [`Incremento fijo`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/incremento_fijo.ipynb)
         *   [`Criterio de relajación`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/criterio_relajacion.ipynb)
@@ -63,7 +63,7 @@ Nota: se agregará material nuevo conforme avance el curso.
         *   [`Uno contra uno`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ovo.ipynb)
         *   [`Todos y uno`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/all_and_one.ipynb)
         *   [`Calibración de Platt`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/platt.ipynb) 
-*   3. Redes neuronales artificiales
+*   `3. Redes neuronales artificiales`
 
 ## `Bibliografía recomendada`
 <p align="center">
