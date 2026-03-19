@@ -27,33 +27,43 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [7. Análisis lineal discriminante](https://drive.google.com/file/d/1IGmWIFU5KH6XC1QNjCdkPChvw5Hc55vb/view?usp=sharing)
 
 ## `Implementaciones en Python`
-*   [`1. Clasificación Bayesiana`](https://github.com/wgomezf/analisis_datos/tree/main/01_Clasificación_Bayesiana)
-    *   Teoría de decisión Bayesiana:
+*   1. Clasificación Bayesiana
+    *   Teoría de decisión Bayesiana
         *   [`Teorema de Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_de_Bayes.ipynb)
         *   [`Teorema del límite central`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_Limite_Central.ipynb)
-    *   Clasificadores paramétricos:
+    *   Clasificadores paramétricos
         *   [`Clasificador de mínima distancia Euclidiana`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_1.ipynb)
         *   [`Clasificador de mínima distancia Mahalanobis`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_2.ipynb)
         *   [`Clasificador Bayesiano general`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_3.ipynb)
         *   [`Clasificador naive Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_4.ipynb)
-    *   Clasificadores no paramétricos:
+    *   Clasificadores no paramétricos
         *   [`Estimación de densidad de kernel`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/kde.ipynb)
         *   [`Clasificador con ventanas de Parzen`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/parzen.ipynb)
         *   [`Clasificador de los k-vecinos más cercanos`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/knn.ipynb)
-*   [`2. Clasificación lineal`](https://github.com/wgomezf/analisis_datos/tree/main/02_Clasificación_lineal)
-    *   [`Algoritmo perceptrón de incremento fijo`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/incremento_fijo.ipynb)
-    *   [`Algoritmo perceptrón con criterio de relajación`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/criterio_relajacion.ipynb)
-    *   [`Algoritmo perceptrón pocket`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/perceptron_pocket.ipynb)
-    *   [`Algoritmo perceptrón multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/perceptron_multiclase.ipynb)
-    *   [`Regresión logística`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/regresion_logistica.ipynb)
-    *   [`Mínimos cuadrados caso binario`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/mincuadbin.ipynb)
-    *   [`Mínimos cuadrados caso multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/mincuadmul.ipynb)
-    *   [`SVM de margen suave`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/svmsoft.ipynb)
-    *   [`Biblioteca LIBSVM`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/svmlib.ipynb)
-    *   [`LDA binario`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ldabin.ipynb)
-    *   [`LDA multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ldamul.ipynb)
-    *   [`LDA kernel`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ldakernel.ipynb)
-*   [`3. Redes neuronales artificiales`](https://github.com/wgomezf/analisis_datos/tree/main/03_Redes_neuronales_artificiales)
+*   2. Clasificación lineal
+    *   Algoritmo perceptrón
+        *   [`Incremento fijo`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/incremento_fijo.ipynb)
+        *   [`Criterio de relajación`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/criterio_relajacion.ipynb)
+        *   [`Perceptrón pocket`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/perceptron_pocket.ipynb)
+        *   [`Perceptrón multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/perceptron_multiclase.ipynb)
+    *   Regresión logística
+        *   [`Casos binario y multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/regresion_logistica.ipynb)
+    *   Métodos de mínimos cuadrados
+        *   [`Caso binario`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/mincuadbin.ipynb)
+        *   [`Caso multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/mincuadmul.ipynb)
+    *   Máquina de vectores de soporte
+        *   [`SVM de margen suave`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/svmsoft.ipynb)
+        *   [`Biblioteca LIBSVM`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/svmlib.ipynb)
+    *   Análisis lineal discriminante
+        *   [`Caso binario`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ldabin.ipynb)
+        *   [`Caso multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ldamul.ipynb)
+        *   [`LDA kernel`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ldakernel.ipynb)
+    *   Esquemas de clasificación multiclase
+        *   [`Uno contra todos`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ova.ipynb)
+        *   [`Uno contra uno`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/ovo.ipynb)
+        *   [`Todos y uno`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/all_and_one.ipynb)
+        *   [`Calibración de Platt`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/platt.ipynb) 
+*   3. Redes neuronales artificiales
 
 ## `Bibliografía recomendada`
 <p align="center">
