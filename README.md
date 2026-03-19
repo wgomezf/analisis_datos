@@ -32,14 +32,14 @@ Nota: se agregará material nuevo conforme avance el curso.
         *   [`Teorema de Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_de_Bayes.ipynb)
         *   [`Teorema del límite central`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Teorema_Limite_Central.ipynb)
     *   Clasificadores paramétricos
-        *   [`Clasificador de mínima distancia Euclidiana`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_1.ipynb)
-        *   [`Clasificador de mínima distancia Mahalanobis`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_2.ipynb)
-        *   [`Clasificador Bayesiano general`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_3.ipynb)
-        *   [`Clasificador naive Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_4.ipynb)
+        *   [`Mínima distancia Euclidiana`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_1.ipynb)
+        *   [`Mínima distancia Mahalanobis`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_2.ipynb)
+        *   [`Bayesiano general`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_3.ipynb)
+        *   [`Naive Bayes`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/Caso_4.ipynb)
     *   Clasificadores no paramétricos
         *   [`Estimación de densidad de kernel`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/kde.ipynb)
-        *   [`Clasificador con ventanas de Parzen`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/parzen.ipynb)
-        *   [`Clasificador de los k-vecinos más cercanos`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/knn.ipynb)
+        *   [`Ventanas de Parzen`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/parzen.ipynb)
+        *   [`k-vecinos más cercanos`](https://github.com/wgomezf/analisis_datos/blob/main/01_Clasificación_Bayesiana/knn.ipynb)
 *   Clasificación lineal
     *   Algoritmo perceptrón
         *   [`Incremento fijo`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/incremento_fijo.ipynb)
