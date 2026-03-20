@@ -16,6 +16,7 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [8. Máquina de vectores de soporte](https://drive.google.com/file/d/11eonrb-sh1PoerXfvZwAcZlkCrjeeah5/view?usp=sharing)
 *   [9. Análisis lineal discriminante](https://drive.google.com/file/d/15XE1583YZx2NRBk8EIQaSwrV4GKkRdgy/view?usp=sharing)
 *   [10. Esquemas de clasificación multiclase](https://drive.google.com/file/d/16Od00-ZgyGYeLTYOA7Q-qCIzx-4UP2wq/view?usp=sharing)
+*   [11. Perceptrón multicapa](https://drive.google.com/file/d/1c2GF2jZWsX9BaQOnFLiHMRCKksbvkwvn/view?usp=sharing)
 
 ## `Notas de clase`
 *   [1. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/1BMpzEfGTX7YicIpVE069d3_zn1NOlXC3/view?usp=sharing)
@@ -25,6 +26,7 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [5. Regresión logística](https://drive.google.com/file/d/1hqrtyFQBD3Yp1qKlbBxgm4iEEgnb3k26/view?usp=sharing)
 *   [6. Máquina de vectores de soporte](https://drive.google.com/file/d/1rPsXyywnxtBisCWeE84sXbD1mRs35cex/view?usp=sharing)
 *   [7. Análisis lineal discriminante](https://drive.google.com/file/d/1IGmWIFU5KH6XC1QNjCdkPChvw5Hc55vb/view?usp=sharing)
+*   [8. Perceptrón multicapa](https://drive.google.com/file/d/1kqn7fh0Hf80LiYxQXf-_oFQvPLcjWwCP/view?usp=sharing)
 
 ## `Implementaciones en Python`
 *   Clasificación Bayesiana
@@ -64,6 +66,9 @@ Nota: se agregará material nuevo conforme avance el curso.
         *   [`Todos y uno`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/all_and_one.ipynb)
         *   [`Calibración de Platt`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/platt.ipynb) 
 *   Redes neuronales artificiales
+    *   Perceptrón multicapa
+        *   [`MLP full-batch`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/mlp_full.ipynb)
+        *   [`MLP mini-batch y optimizadores`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/mlp_optim.ipynb)
 
 ## `Bibliografía recomendada`
 <p align="center">
