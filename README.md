@@ -72,7 +72,7 @@ Nota: se agregará material nuevo conforme avance el curso.
         *   [`MLP mini-batch y optimizadores`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/mlp_optim.ipynb)
     *   Red de función de base radial
         *   [`RBFN con entrenamiento híbrido`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/rbfnn.ipynb)
-        *   
+  
 ## `Bibliografía recomendada`
 <p align="center">
   <img src="https://github.com/wgomezf/analisis_datos/blob/main/libros/duda.jpg" width="200">
