@@ -18,6 +18,7 @@ Nota: se agregará material nuevo conforme avance el curso.
 *   [10. Esquemas de clasificación multiclase](https://drive.google.com/file/d/16Od00-ZgyGYeLTYOA7Q-qCIzx-4UP2wq/view?usp=sharing)
 *   [11. Perceptrón multicapa](https://drive.google.com/file/d/1c2GF2jZWsX9BaQOnFLiHMRCKksbvkwvn/view?usp=sharing)
 *   [12. Red de función de base radial](https://drive.google.com/file/d/1LtrRjStXWg-L90jMrIDvfkwdYdRuExFJ/view?usp=sharing)
+*   [13. Red neuronal convolucional](https://drive.google.com/file/d/10mfIhLavhNcYYRMe0VHYJ8leuA6Qs6f8/view?usp=sharing)
 
 ## `Notas de clase`
 *   [1. Clasificadores Bayesianos paramétricos](https://drive.google.com/file/d/1BMpzEfGTX7YicIpVE069d3_zn1NOlXC3/view?usp=sharing)
