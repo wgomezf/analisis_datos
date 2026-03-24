@@ -3,8 +3,6 @@
 ## `Sobre el curso`
 En el curso de Análisis de Datos (parte II), impartido en el programa de maestría del Cinvestav Unidad Tamaulipas, se estudiarán técnicas relevantes de aprendizaje supervisado para clasificar automáticamente objetos físicos de múltiples dimensiones en categorías o clases conocidas. Estos métodos son útiles en muchas áreas de aplicación, como la minería de datos, el análisis y reconocimiento de documentos, la lingüística computacional, las ciencias forenses, la biometría, la bioinformática y el diagnóstico de enfermedades, entre otras. 
 
-Nota: se agregará material nuevo conforme avance el curso.
-
 ## `Tópicos del curso`
 *   [1. Introducción a la clasificación de datos](https://drive.google.com/file/d/1SdGPGciN2SUGe764bc_GBZAuaJTUPp9A/view?usp=sharing)
 *   [2. Teoría de decisión Bayesiana](https://drive.google.com/file/d/15JnH-0c3rGfMvYOHs0YrFhj9miDpZk97/view?usp=sharing)
@@ -77,6 +75,7 @@ Nota: se agregará material nuevo conforme avance el curso.
     *   Red neuronal convolucional
         *   [`Modelo LeNet-5`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/lenet5.ipynb)
         *   [`Transferencia de aprendizaje`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/translearn.ipynb)
+        *   [`Visualización GRAD-CAM`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/gradcam.ipynb)
 *   Evaluación de clasificadores
     *   [`Clasificación binaria`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/kfoldbin.ipynb) 
     *   [`Clasificación multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/kfoldmul.ipynb) 
