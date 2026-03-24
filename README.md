@@ -76,8 +76,8 @@ Nota: se agregará material nuevo conforme avance el curso.
         *   [`RBFN con entrenamiento híbrido`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/rbfnn.ipynb)
     *   Red neuronal convolucional
 *   Evaluación de clasificadores
-        *   [`Clasificación binaria`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/kfoldbin.ipynb) 
-        *   [`Clasificación multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/kfoldmul.ipynb) 
+    *   [`Clasificación binaria`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/kfoldbin.ipynb) 
+    *   [`Clasificación multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/kfoldmul.ipynb) 
   
 ## `Bibliografía recomendada`
 <p align="center">
