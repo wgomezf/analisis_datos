@@ -76,6 +76,7 @@ Nota: se agregará material nuevo conforme avance el curso.
         *   [`RBFN con entrenamiento híbrido`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/rbfnn.ipynb)
     *   Red neuronal convolucional
         *   [`Modelo LeNet-5`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/lenet5.ipynb)
+        *   [`Transferencia de aprendizaje`](https://github.com/wgomezf/analisis_datos/blob/main/03_Redes_neuronales_artificiales/translearn.ipynb)
 *   Evaluación de clasificadores
     *   [`Clasificación binaria`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/kfoldbin.ipynb) 
     *   [`Clasificación multiclase`](https://github.com/wgomezf/analisis_datos/blob/main/02_Clasificación_lineal/kfoldmul.ipynb) 
